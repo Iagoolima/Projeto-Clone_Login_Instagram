@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+.mensagem{
+    display: none;
+}
 .container{
     background-color: #fafafa;
     min-width: 100%;
